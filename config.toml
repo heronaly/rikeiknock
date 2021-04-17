@@ -15,7 +15,7 @@ publishDir = "docs"
   description = "Describe your website"
   copyright = "&copy;2021 りけいノック"
   sidebarAbout = [
-    " 私達は日常に小さな理系ををモットーに理系に興味を持ってもらえるよう様々なグッズの買う初を行っています",
+    " 私達は日常に小さな理系ををモットーに理系に興味を持ってもらえるよう様々なグッズの企画販売を行っています",
   ]
   # Contact page
      # Since this template is static, the contact form uses www.formspree.io as a
