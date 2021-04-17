@@ -6,9 +6,8 @@ languageCode = "ja-JP"
 disqusShortname = ""
 # Enable Google Analytics by entering your tracking code
 googleAnalytics = ""
+#canonifyurls = true
 publishDir = "docs"
-canonifyurls = true
-
 [params]
   # Style options: default (pink), blue, green, pink, red, sea, violet
   # Use custom.css for your custom styling
